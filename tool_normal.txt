@@ -1,0 +1,11 @@
+https://github.com/Mebus/cupp
+https://github.com/sqlmapproject/sqlmap
+https://github.com/nmap/nmap
+https://github.com/vanhauser-thc/thc-hydra
+https://github.com/EnableSecurity/wafw00f
+https://github.com/sullo/nikto
+https://github.com/v0re/dirb
+https://github.com/wpscanteam/wpscan
+https://github.com/hashcat/hashcat
+https://github.com/smicallef/spiderfoot
+https://github.com/sherlock-project/sherlock
