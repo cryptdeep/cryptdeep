@@ -39,7 +39,7 @@ def pkgleek(x):
 		
 	else:
 		print(f" > {x} {omsg}")
-		cmd = f"apt install {x} -y"
+		cmd = f"apt-get install {x} -y"
 		process = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 		output, error = process.communicate()
 		
